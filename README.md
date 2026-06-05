@@ -11,8 +11,7 @@ Clean Code Lover ⚡ <br>
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toshtemirovasrorbek8-bit&show_icons=true&theme=radical&border_radius=15&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshtemirovasrorbek8-bit&layout=compact&theme=radical&border_radius=15" />
+  <img src="https://streak-stats.demolab.com?user=toshtemirovasrorbek8-bit&theme=radical&border_radius=15" />
 </p>
 
 ## 🔥 Streak
