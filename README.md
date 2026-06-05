@@ -1,13 +1,7 @@
-<h1 align="center">👋 Toshtemirov Asrorbek</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&background=0A192F&center=true&vCenter=true&width=900&lines=Toshtemirov+Asrorbek" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&pause=1000&color=00F7FF&background=0A192F&center=true&vCenter=true&width=900&lines=Frontend+Developer+💻;HTML+%7C+CSS+%7C+JavaScript+⚡;Clean+Code+Lover+🔥;Future+Senior+Developer+🚀;Always+Learning+📚" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-0A192F?style=for-the-badge&logo=react&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-111111?style=for-the-badge&logo=javascript"/>
-</p>
 
 ---
 
