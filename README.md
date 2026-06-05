@@ -4,9 +4,8 @@
 
 <h2 align="center">
 Toshtemirov Asrorbek 👋 <br>
-Frontend Developer 💻 <br>
+Web Developer 💻 <br>
 Clean Code Lover ⚡ <br>
-Open Source Enthusiast 🚀
 </h2>
 
 ---
@@ -19,7 +18,12 @@ Open Source Enthusiast 🚀
 
 ---
 
-## 🛠️ Skills
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript)
+## 🛠️ Texnologiyalar
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📫 Aloqa
+- Telegram: @Toshtemirov_Asrorbek
