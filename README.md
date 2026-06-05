@@ -1,19 +1,12 @@
 <h1 align="center">👋 Toshtemirov Asrorbek</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&background=0A192F&center=true&vCenter=true&width=900&lines=Toshtemirov+Asrorbek" />
+</p>
 
-<img src="https://img.shields.io/badge/Frontend%20Developer-0A192F?style=for-the-badge&logo=react&logoColor=00F7FF" /><br><br>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br><br>
-
-<img src="https://img.shields.io/badge/Clean%20Code%20Lover-111111?style=for-the-badge&logo=github&logoColor=white"/><br><br>
-
-<img src="https://img.shields.io/badge/Future%20Senior%20Developer-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white"/><br><br>
-
-<img src="https://img.shields.io/badge/Always%20Learning-0A192F?style=for-the-badge&logo=bookstack&logoColor=00F7FF"/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Developer-0A192F?style=for-the-badge&logo=react&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-111111?style=for-the-badge&logo=javascript"/>
 </p>
 
 ---
