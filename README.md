@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Salom, men Asrorbek
 
-<!--
-**toshtemirovasrorbek8-bit/toshtemirovasrorbek8-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer  
+🚀 HTML | CSS | JavaScript  
+🎯 Maqsad: Senior Developer bo‘lish  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=toshtemirovasrorbek8-bit&show_icons=true&theme=tokyonight)
+
+## 🔥 Streak
+![Streak](https://streak-stats.demolab.com?user=toshtemirovasrorbek8-bit&theme=tokyonight)
+
+---
+
+## 🛠️ Texnologiyalar
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📫 Aloqa
+- Telegram: @username
