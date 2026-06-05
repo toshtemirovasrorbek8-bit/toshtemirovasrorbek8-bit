@@ -7,10 +7,10 @@
 ---
 
 <p align="center">
-  <a href="https://t.me/username">
+  <a href="https://t.me/Toshtemirov_Asrorbek">
     <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram" />
   </a>
-  <a href="https://instagram.com/username">
+  <a href="https://instagram.com/_tosh._.temirov_">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
   </a>
 </p>
