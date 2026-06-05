@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
   <img src="https://img.shields.io/badge/Frontend%20Developer-000000?style=for-the-badge&logo=react&logoColor=00F7FF"/><br><br>
 
 <img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow"/><br><br>
@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Future%20Senior%20Developer-000000?style=for-the-badge&logo=codeforces&logoColor=blue"/><br><br>
 
   <img src="https://img.shields.io/badge/Always%20Learning-000000?style=for-the-badge&logo=bookstack&logoColor=00F7FF"/>
-</p>
+</p>](https://readme-typing-svg.herokuapp.com?size=30&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript+%E2%9A%A1%EF%B8%8F;Clean+Code+Lover+%F0%9F%94%A5;Future+Senior+Developer+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A)
 
 
 ---
