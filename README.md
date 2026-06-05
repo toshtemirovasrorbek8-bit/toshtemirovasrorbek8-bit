@@ -1,6 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Toshtemirov+Asrorbek;Frontend+Developer;Clean+Code+Lover;Open+Source+Enthusiast" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
+
+<h2 align="center">
+Toshtemirov Asrorbek 👋 <br>
+Frontend Developer 💻 <br>
+Clean Code Lover ⚡ <br>
+Open Source Enthusiast 🚀
+</h2>
 
 ---
 
