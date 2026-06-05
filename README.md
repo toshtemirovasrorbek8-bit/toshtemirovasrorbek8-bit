@@ -1,9 +1,12 @@
 <h1 align="center">👋 Toshtemirov Asrorbek</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer+💻;HTML+%7C+CSS+%7C+JavaScript+⚡;Clean+Code+Lover+🔥;Future+Senior+Developer+🚀;Always+Learning+📚" />
-</p>
-
+<h2 align="center">
+Frontend Developer 💻 <br>
+HTML | CSS | JavaScript ⚡ <br>
+Clean Code Lover 🔥 <br>
+Future Senior Developer 🚀 <br>
+Always Learning 📚
+</h2>
 ---
 
 <p align="center">
