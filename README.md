@@ -22,4 +22,4 @@
 ---
 
 ## 📫 Aloqa
-- Telegram: @username
+- Telegram: @Toshtemirov_Asrorbek
