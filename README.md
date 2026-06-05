@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&pause=1000&color=00F7FF&background=000000&center=true&vCenter=true&width=900&lines=Frontend+Developer+💻;HTML+%7C+CSS+%7C+JavaScript+⚡;Clean+Code+Lover+🔥;Future+Senior+Developer+🚀;Always+Learning+📚" />
+  <img src="https://img.shields.io/badge/Frontend%20Developer-000000?style=for-the-badge&logo=react&logoColor=00F7FF"/><br><br>
+
+<img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow"/><br><br>
+
+<img src="https://img.shields.io/badge/Clean%20Code%20Lover-000000?style=for-the-badge&logo=github&logoColor=white"/><br><br>
+
+<img src="https://img.shields.io/badge/Future%20Senior%20Developer-000000?style=for-the-badge&logo=codeforces&logoColor=blue"/><br><br>
+
+  <img src="https://img.shields.io/badge/Always%20Learning-000000?style=for-the-badge&logo=bookstack&logoColor=00F7FF"/>
 </p>
 
 
