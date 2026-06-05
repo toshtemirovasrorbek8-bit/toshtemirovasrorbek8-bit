@@ -1,6 +1,6 @@
-# Toshtemirov Asrorbek 👋
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=600&lines=Toshtemirov+Asrorbek;Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Future+Senior+Developer🚀)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Toshtemirov+Asrorbek;Frontend+Developer;Clean+Code+Lover;Open+Source+Enthusiast" />
+</p>
 
 ---
 
