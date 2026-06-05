@@ -1,5 +1,9 @@
 <h1 align="center">👋 Toshtemirov Asrorbek</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" />
+</p>
+
 <h2 align="center">
 Frontend Developer 💻 <br>
 HTML | CSS | JavaScript ⚡ <br>
