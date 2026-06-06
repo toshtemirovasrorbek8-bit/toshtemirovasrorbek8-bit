@@ -1,20 +1,20 @@
-<!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b5e20,100:66bb6a&height=200&section=header&text=Toshhtemmirov%20Asrorbek&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Clean%20Code%20Lover&descAlignY=58&descColor=a5d6a7" />
+# 👋 Toshhtemmirov Asrorbek
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&pause=1000&color=66BB6A&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%9A%80;Clean+Code+Lover+%F0%9F%94%A5;Future+Senior+Developer+%E2%9C%85)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- About -->
 ## 👨‍💻 Men haqimda
 
 ```javascript
 const asrorbek = {
   name     : "Toshhtemmirov Asrorbek",
-  role     : "Backend Developer",
-  location : "Samarqand, Uzbekistan",
+  role     : "Frontend Developer",
+  location : "Toshkent, Uzbekistan",
   pronouns : "he / him",
   goal     : "Future Senior Developer",
   motto    : "Clean code is not written by chance 🔥"
@@ -23,7 +23,6 @@ const asrorbek = {
 
 ---
 
-<!-- Stack -->
 ## 🛠️ Texnologiyalar
 
 <div align="center">
@@ -36,7 +35,6 @@ const asrorbek = {
 
 ---
 
-<!-- Stats -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -54,22 +52,18 @@ const asrorbek = {
 
 ---
 
-<!-- Contact -->
 ## 📬 Bog'lanish
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-0d1f0d?style=for-the-badge&logo=telegram&logoColor=66bb6a)](https://t.me/Toshtemirov_Asrorbek)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1f0d?style=for-the-badge&logo=instagram&logoColor=66bb6a)](https://instagram.com/_tosh._.temirov_)
-[![Email](https://img.shields.io/badge/Email-0d1f0d?style=for-the-badge&logo=gmail&logoColor=66bb6a)](mailto:toshtemirovasrorbek8@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-0d1f0d?style=for-the-badge&logo=telegram&logoColor=66bb6a)](https://t.me/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1f0d?style=for-the-badge&logo=instagram&logoColor=66bb6a)](https://instagram.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-0d1f0d?style=for-the-badge&logo=gmail&logoColor=66bb6a)](mailto:YOUR_EMAIL)
 
 </div>
 
 ---
 
-<!-- Footer -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66bb6a,100:1b5e20&height=120&section=footer" />
-
+<img src="https://komarev.com/ghpvc/?username=toshtemirovasrorbek8-bit&style=for-the-badge&color=0d1f0d&label=PROFILE+VIEWS" />
 </div>
