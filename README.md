@@ -1,80 +1,75 @@
-<h1 align="center">👋 Toshtemirov Asrorbek</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer+💻;HTML+%7C+CSS+%7C+JavaScript+⚡️;Clean+Code+Lover+🔥;Future+Senior+Developer+🚀;Always+Learning+📚" />
-</p>
----
+<!-- Header -->
+<div align="center">
 
-<p align="center">
-  <a href="https://t.me/Toshtemirov_Asrorbek">
-    <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram" />
-  </a>
-  <a href="https://instagram.com/_tosh._.temirov_">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b5e20,100:66bb6a&height=200&section=header&text=Toshhtemmirov%20Asrorbek&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Clean%20Code%20Lover&descAlignY=58&descColor=a5d6a7" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+<!-- About -->
+## 👨‍💻 Men haqimda
 
-* 💻 Frontend Developer
-* ⚡ HTML | CSS | JavaScript
-* 🔥 Clean Code Lover
-* 📈 Future Senior Developer
-* 🧠 Always learning new technologies
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-</p>
+```javascript
+const asrorbek = {
+  name     : "Toshhtemmirov Asrorbek",
+  role     : "Frontend Developer",
+  location : "Toshkent, Uzbekistan",
+  pronouns : "he / him",
+  goal     : "Future Senior Developer",
+  motto    : "Clean code is not written by chance 🔥"
+};
+```
 
 ---
 
+<!-- Stack -->
+## 🛠️ Texnologiyalar
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-0d1f0d?style=for-the-badge&logo=html5&logoColor=66bb6a)
+![CSS3](https://img.shields.io/badge/CSS3-0d1f0d?style=for-the-badge&logo=css3&logoColor=66bb6a)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1f0d?style=for-the-badge&logo=javascript&logoColor=66bb6a)
+
+</div>
+
+---
+
+<!-- Stats -->
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toshtemirovasrorbek8-bit&show_icons=true&theme=radical&border_radius=20&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshtemirovasrorbek8-bit&layout=compact&theme=radical&border_radius=20" />
-</p>
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=toshtemirovasrorbek8-bit&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1f0d&title_color=66bb6a&icon_color=a5d6a7&text_color=e8f5e9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshtemirovasrorbek8-bit&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1f0d&title_color=66bb6a&text_color=e8f5e9" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=toshtemirovasrorbek8-bit&theme=chartreuse-dark&hide_border=true&background=0d1f0d&ring=66bb6a&fire=a5d6a7&currStreakLabel=66bb6a)
+
+</div>
 
 ---
 
-## 🔥 Streak Stats
+<!-- Contact -->
+## 📬 Bog'lanish
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toshtemirovasrorbek8-bit&theme=radical&border_radius=20&ring=00F7FF&fire=FF0000&currStreakLabel=00F7FF" />
-</p>
+<div align="center">
 
----
+[![Telegram](https://img.shields.io/badge/Telegram-0d1f0d?style=for-the-badge&logo=telegram&logoColor=66bb6a)](https://t.me/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1f0d?style=for-the-badge&logo=instagram&logoColor=66bb6a)](https://instagram.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-0d1f0d?style=for-the-badge&logo=gmail&logoColor=66bb6a)](mailto:YOUR_EMAIL)
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
+</div>
 
 ---
 
-## 🏆 Achievements
+<!-- Footer -->
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=toshtemirovasrorbek8-bit&theme=radical&no-frame=true&margin-w=15" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66bb6a,100:1b5e20&height=120&section=footer" />
 
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=toshtemirovasrorbek8-bit&theme=react-dark" />
-</p>
-
----
-
-## 💡 Quote
-
-<p align="center">
-  <i>"Code. Build. Repeat. ⚡"</i>
-</p>
+</div>
