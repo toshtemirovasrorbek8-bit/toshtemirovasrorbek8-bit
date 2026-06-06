@@ -13,8 +13,8 @@
 ```javascript
 const asrorbek = {
   name     : "Toshhtemmirov Asrorbek",
-  role     : "Frontend Developer",
-  location : "Toshkent, Uzbekistan",
+  role     : "Backend Developer",
+  location : "Samarqand, Uzbekistan",
   pronouns : "he / him",
   goal     : "Future Senior Developer",
   motto    : "Clean code is not written by chance 🔥"
@@ -59,9 +59,9 @@ const asrorbek = {
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-0d1f0d?style=for-the-badge&logo=telegram&logoColor=66bb6a)](https://t.me/YOUR_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1f0d?style=for-the-badge&logo=instagram&logoColor=66bb6a)](https://instagram.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-0d1f0d?style=for-the-badge&logo=gmail&logoColor=66bb6a)](mailto:YOUR_EMAIL)
+[![Telegram](https://img.shields.io/badge/Telegram-0d1f0d?style=for-the-badge&logo=telegram&logoColor=66bb6a)](https://t.me/Toshtemirov_Asrorbek)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1f0d?style=for-the-badge&logo=instagram&logoColor=66bb6a)](https://instagram.com/_tosh._.temirov_)
+[![Email](https://img.shields.io/badge/Email-0d1f0d?style=for-the-badge&logo=gmail&logoColor=66bb6a)](mailto:toshtemirovasrorbek8@gmail.com)
 
 </div>
 
