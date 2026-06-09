@@ -1,10 +1,35 @@
-<div align="center">
-
-# 👋 Salom, men Bahriddinman!
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+MongoDB+%7C+Express;O'zbekistonlik+dasturchi+%F0%9F%9A%80" alt="Typing SVG" />
-
-</div>
+<svg viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg" style="width:100%;border-radius:12px;display:block;">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a0f1a"/>
+      <stop offset="55%" style="stop-color:#0a0f1a"/>
+      <stop offset="100%" style="stop-color:#0d3a5c"/>
+    </linearGradient>
+    <linearGradient id="rightGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d4a7a;stop-opacity:0.9"/>
+      <stop offset="100%" style="stop-color:#0a2040;stop-opacity:0.6"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect width="900" height="200" rx="12"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="900" height="200" fill="url(#bgGrad)"/>
+    <ellipse cx="780" cy="100" rx="250" ry="120" fill="url(#rightGlow)" opacity="0.85"/>
+    <ellipse cx="820" cy="80" rx="180" ry="90" fill="#0e5a8a" opacity="0.4"/>
+    <ellipse cx="750" cy="130" rx="200" ry="80" fill="#0a3a60" opacity="0.5"/>
+  </g>
+  <text x="450" y="95" text-anchor="middle"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="52" font-weight="700"
+    fill="#00cfff"
+    letter-spacing="1">Toshtemirov Asrorbek</text>
+  <text x="450" y="138" text-anchor="middle"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="20" font-weight="400"
+    fill="#00b8e6"
+    letter-spacing="0.5">Backend Developer | Node.js</text>
+</svg>
 
 ---
 
