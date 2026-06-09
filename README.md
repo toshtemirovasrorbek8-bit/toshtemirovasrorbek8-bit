@@ -1,4 +1,6 @@
-<svg viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+<div align="center">
+
+<svg viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg" width="900" height="200">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#0a0f1a"/>
@@ -19,31 +21,26 @@
     <ellipse cx="820" cy="80" rx="180" ry="90" fill="#0e5a8a" opacity="0.4"/>
     <ellipse cx="750" cy="130" rx="200" ry="80" fill="#0a3a60" opacity="0.5"/>
   </g>
-  <text x="450" y="95" text-anchor="middle"
-    font-family="Segoe UI, Arial, sans-serif"
-    font-size="52" font-weight="700"
-    fill="#00cfff"
-    letter-spacing="1">Toshtemirov Asrorbek</text>
-  <text x="450" y="138" text-anchor="middle"
-    font-family="Segoe UI, Arial, sans-serif"
-    font-size="20" font-weight="400"
-    fill="#00b8e6"
-    letter-spacing="0.5">Backend Developer | Node.js</text>
+  <text x="450" y="95" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="#00cfff" letter-spacing="1">Toshtemirov Asrorbek</text>
+  <text x="450" y="138" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#00b8e6" letter-spacing="0.5">Backend Developer | Node.js</text>
 </svg>
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;Node.js+%7C+MongoDB+%7C+Express;O%27zbekistonlik+dasturchi+%F0%9F%87%BA%F0%9F%87%BF)
+
+</div>
 
 ---
 
 ## ⚡ Men haqimda
 
 ```js
-const Asrorbek = {
-  ism: "Toshtemirov Asrorbek",
-  joylashuv: "Samarqand, O'zbekiston 🇺🇿",
-  rol: "Backend Developer",
-  hozirda: "Node.js va MongoDB ni o'rganyapman 🚀",
-  email: "toshtemirovasrorbek8@gmail.com",
-  telegram: "@Toshtemirov_Asrorbek",
-  github: "toshtemirovasrorbek8-bit",
+const asrorbek = {
+  ism:        "Toshtemirov Asrorbek",
+  rol:        "Backend Developer",
+  texnologiya: ["Node.js", "Express", "MongoDB"],
+  hozirda:    "Backend dasturlashni chuqurlashtirmoqda 🚀",
 };
 ```
 
@@ -70,14 +67,15 @@ const Asrorbek = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khamidoff633&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamidoff633&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=khamidoff633&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -87,9 +85,9 @@ const Asrorbek = {
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BAKHRIDDIN_DEV)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahriddinhamidov057@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khamidoff633)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 </div>
 
@@ -97,8 +95,7 @@ const Asrorbek = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=khamidoff633&color=00b4d8&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/khamidoff633?style=for-the-badge&color=00b4d8)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00b4d8&style=for-the-badge)
 
 ⭐ **Loyihalarimni ko'rib, yulduz qoldiring!** ⭐
 
